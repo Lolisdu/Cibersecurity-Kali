@@ -19,4 +19,11 @@ Captura de senha (Facebook)
 ◽ URL utilizado no clone:[Facebook](http://www.facebook.com)
 ```
 📌Resultado <br>
+<br>
+🔍 Senha e site <br>
 ![resultado](https://github.com/Lolisdu/Cibersecurity-Kali/blob/main/conseguindo%20acesso.png)
+<br>
+<br>
+🔍 Login e senha (Constou como falsa) <br>
+![resultado2](https://github.com/Lolisdu/Cibersecurity-Kali/blob/main/acesso%20senha%20falsa.png)
+
